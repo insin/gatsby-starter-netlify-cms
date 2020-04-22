@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Testing New Blog Post
+title: Testing Editing Blog Post
 date: 2020-04-22T09:35:52.147Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
